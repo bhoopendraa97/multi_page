@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/img/backgroundicon.image.jpg)
+    background: url(img/backgroundicon.image.jpg)
 }
 .Wapper{
     width: 420px;
